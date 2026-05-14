@@ -1,2 +1,10 @@
 # LockDown-Browser-Bypass
 Latest LockDown Browser Bypass [v4.3.8] with 3 ai models attached
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Latest LockDownBrowser bypass is now released- [v4.3.8]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+-supports 15+ differnt types of lockdown browser (including respondus, colledge board, etc.)
+either directly get it from my website or discord
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://discord.gg/zUUGVkMt4U
+https://hyperxeno.lovable.app/
